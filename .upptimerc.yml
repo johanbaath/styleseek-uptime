@@ -6,7 +6,7 @@ repo: styleseek-uptime # Your GitHub repository name
 sites:
   - name: StyleSeek
     url: https://styleseek.se
-  - name: StyleSeek Global CDN
+  - name: StyleSeek CDN
     url: https://styleseekcdn.se
 
 status-website:
