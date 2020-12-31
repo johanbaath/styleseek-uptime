@@ -8,6 +8,8 @@ sites:
     url: https://styleseek.se
   - name: StyleSeek CDN
     url: https://styleseekcdn.se
+  - name: StyleSeek API
+    url: https://api.styleseek.se
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
