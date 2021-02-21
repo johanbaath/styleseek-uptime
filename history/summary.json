@@ -4,7 +4,7 @@
     "url": "https://styleseek.se",
     "icon": "https://favicons.githubusercontent.com/styleseek.se",
     "slug": "style-seek",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 490,
     "timeMonth": 1134,
     "timeYear": 1422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-21": 0
+    }
   },
   {
     "name": "StyleSeek CDN",
